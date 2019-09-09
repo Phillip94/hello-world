@@ -1,3 +1,9 @@
+# Hello World
+
+Hi guys,
+
+this is Phillip, I'm here to learn as much as i can about coding. I'm just new and have ambitions for learning Python, SQL and R as well as to get deeper into Excel including VBA.
+
 # Welcome to GitHub
 
 Welcome to GitHub—where millions of developers work together on software. Ready to get started? Let’s learn how this all works by building and publishing your first GitHub Pages website!
